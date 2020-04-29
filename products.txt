@@ -1,0 +1,4 @@
+name,price,quantity
+lapton,800,4
+mouse,40,10
+monitor,400,3
