@@ -18,3 +18,4 @@ echo "END R Insatall"
 echo "Insatall Packages in R"
 install.packages("foreach")
 echo "End Packages Install"
+echo "END"
