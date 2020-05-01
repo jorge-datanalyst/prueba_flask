@@ -1,3 +1,5 @@
+#!/bin/bash/
+
 echo "Insatall R"
 
 apt install dirmngr apt-transport-https ca-certificates software-properties-common gnupg2
