@@ -1,9 +1,9 @@
 
-echo "Insatall R"
+echo "Updating..."
 
 apt-get update
 
-echo "END R Insatall"
+echo "Updated"
 
 sudo apt-get install htop
 
