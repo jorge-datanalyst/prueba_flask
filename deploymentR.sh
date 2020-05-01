@@ -5,6 +5,6 @@ apt update
 
 echo "END R Insatall"
 
-apt install htop
+sudo apt install htop
 
 echo "Htop installed"
