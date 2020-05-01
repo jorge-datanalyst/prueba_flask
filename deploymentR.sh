@@ -1,7 +1,7 @@
 
 echo "Updating..."
 
-apt-get update
+sodo apt-get update
 
 echo "Updated"
 
