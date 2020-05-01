@@ -16,5 +16,5 @@ apt install r-base
 echo "END R Insatall"
 
 echo "Insatall Packages in R"
-install.packages("package")
+install.packages("foreach")
 echo "End Packages Install"
