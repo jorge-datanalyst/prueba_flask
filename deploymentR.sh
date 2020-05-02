@@ -1,13 +1,13 @@
 
 echo "Updating..."
 
-sudo apt-get update
+apt-get update
 
 echo "Updated"
 
 
 echo "Installation star HTOP"
 
-sudo apt-get install htop
+apt-get install htop
 
 echo "Htop installed"
