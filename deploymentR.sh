@@ -1,5 +1,5 @@
 
-echo "Updating..."
+echo "Updating...."
 
 apt-get update
 
